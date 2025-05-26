@@ -18,9 +18,9 @@
 
 > Ideal para sorteos, regalos y comunidades gamer.
 
-```diff
+
 ✔️ Interfaz simple y amigable
-✔️ Generación aleatoria de códigos
+✔️ Generador aleatoria de códigos
 ✔️ Compatible con múltiples juegos
 ✔️ 100% gratuito y sin anuncios
 🚀 Características
@@ -35,7 +35,12 @@
 📁 Versión portable, no requiere instalación.
 
 🛠️ Tecnologías Usadas
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Tkinter-ffffff?style=for-the-badge&logo=windowsterminal&logoColor=black" /> <img src="https://img.shields.io/badge/PyInstaller-grey?style=for-the-badge" /> </p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tkinter-ffffff?style=for-the-badge&logo=windowsterminal&logoColor=black" />
+<img src="https://img.shields.io/badge/PyInstaller-grey?style=for-the-badge" />
+</p>
+
 🧪 Cómo Usar
 Descarga el archivo .exe desde la sección de Releases.
 
@@ -48,14 +53,15 @@ Haz clic en "Generar Código".
 ¡Listo! Copia tu código y úsalo.
 
 📺 Canal de YouTube
-<a href="https://youtube.com/@stiv1on" target="_blank"> <img src="https://img.shields.io/badge/Youtube-Stivion-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
+<a href="https://youtube.com/@stiv1on" target="_blank"> 
+<img src="https://img.shields.io/badge/Youtube-Stivion-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 💌 Contacto
 📧 Email: stevensanchezdev@gmail.com
 
 ⭐ ¡Apoya el proyecto!
 Si te gustó este programa, considera dejar una ⭐ en el repositorio para ayudar a que más personas lo descubran.
 
-<p align="center"> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake gif"> </p>
-yaml
-Copiar
-Editar
+<p align="center"> 
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake gif"> </p>
+
